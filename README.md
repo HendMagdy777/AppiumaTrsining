@@ -1,1 +1,1 @@
-# AppiumaTrsining
+# AppiumaTraining
